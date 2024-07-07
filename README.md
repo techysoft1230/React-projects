@@ -1,2 +1,2 @@
 # React-projects
-Author- Tanvir Hossain Shakil
+Author- Tanvir Hossain Shakil (DEVELOPER)
